@@ -1,5 +1,9 @@
 # Weater Demo
 
+- Go
+    - No dependencies
+- HTMX
+
 ## How to run
 ~~~console
 go run cmd/main/main.go
