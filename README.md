@@ -4,6 +4,17 @@
     - No dependencies
 - HTMX
 
+
+## Installing dependencies
+On mac
+~~~console
+brew install go
+~~~
+
+On other operating sytems, see https://go.dev/doc/install
+
+
+
 ## How to run
 ~~~console
 go run cmd/main/main.go
